@@ -1,5 +1,4 @@
 # On-Shelf Availability (Void Space) Detection using Machine Learning, Object Detection model YOLO
-**Google Colab Link:** https://colab.research.google.com/drive/181VdlsHrVU9buya_qrtT96allRJSGkUC?usp=sharing
 <br/>
 **Prefered Runtime Type:**
 <br/>
